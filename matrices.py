@@ -56,3 +56,17 @@ v22 =v[1,1]
 print(f"La mujer 1 pesaba {a21} kg antes de las fiestas")
 print(f"La mujer 1 pesaba {b14} kg antes de las fiestas")
 print(f"La mujer 1 pesaba {v22} kg antes de las fiestas")
+
+
+################ Ejercicio clases sabado ###################
+
+v1 = np.array([[30,34,20]
+    [ 45,20,16],
+    [ 14,26,25]])
+
+T2 = np.array([[35,30,26],
+              [52,25,18]
+              [23,24,32]])
+
+A2  = v + T2
+print("La produccion mensual total de ambas plantas serian en la matriz", A2)
